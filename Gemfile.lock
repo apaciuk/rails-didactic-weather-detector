@@ -158,6 +158,7 @@ GEM
       ruby-vips (>= 2.0.17, < 3)
     jbuilder (2.11.2)
       activesupport (>= 5.0.0)
+    json (2.5.1)
     jwt (2.2.3)
     listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -353,6 +354,7 @@ DEPENDENCIES
   hotwire-rails
   image_processing
   jbuilder (~> 2.7)
+  json
   listen (~> 3.3)
   madmin
   name_of_person (~> 1.1)
