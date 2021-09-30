@@ -81,6 +81,7 @@
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.8.10, RVM: ruby-2.7.2-v [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="image_processing (v1.12.1, RVM: ruby-2.7.2-v [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.11.2, RVM: ruby-2.7.2-v [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.5.1, RVM: ruby-2.7.2-v [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jwt (v2.2.3, RVM: ruby-2.7.2-v [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="listen (v3.7.0, RVM: ruby-2.7.2-v [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="llhttp-ffi (v0.4.0, RVM: ruby-2.7.2-v [global]) [gem]" level="application" />
